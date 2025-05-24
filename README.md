@@ -12,7 +12,7 @@ The stated definition of our Project is the tryst of Agriculture with Reinforcem
 - [Kaushal Patil](https://github.com/Kaushal1011)
 - [Arpitsinh Vaghela](https://github.com/arpitvaghela)
 - [Pathik Patel](https://github.com/pathikpatel-ml)
-- [Vyoma Patel](https://github.com/nerdyvyoma136)
+- [Vyoma Patel](https://github.com/vyomapatel001)
 
 ## Problem statement
 
